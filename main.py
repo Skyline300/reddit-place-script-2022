@@ -506,6 +506,7 @@ class PlaceClient:
                     if r.status_code != HTTPStatus.OK.value:
                         # password is probably invalid
                         logger.exception("Authorization failed!")
+                        logger.exception("Failed with account: " + str(name))
                         logger.debug("response: {} - {}", r.status_code, r.text)
                         return
                     else:
