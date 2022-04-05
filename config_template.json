@@ -1,0 +1,59 @@
+{
+    "image_path": "kobo_right_dimens_right_color.png",
+    "image_start_coords": [1892,697],
+    "thread_delay": 2,
+    "unverified_place_frequency": false,
+    "compact_logging": true,
+    "using_tor": false,
+    "tor_port": 1881,
+    "tor_control_port": 9051,
+    "tor_password": "Passwort",
+    "tor_delay": 5,
+    "use_builtin_tor": true,
+    "workers": {
+        "Unsalted_Salmon": {
+            "password": "Skyline_2015",
+            "start_coords": [0,0]
+        },
+        "z--O": {
+            "password": "starch courier album congested stock fondue regular regular",
+            "start_coords": [0,0]
+        },
+        "z--1": {
+            "password": "starch courier album congested stock fondue regular regular",
+            "start_coords": [0,0]
+        },
+        "z_-0": {
+            "password": "starch courier album congested stock fondue regular regular",
+            "start_coords": [0,0]
+        },
+        "z--2": {
+            "password": "starch courier album congested stock fondue regular regular",
+            "start_coords": [0,0]
+        },
+        "Mlewds": {
+            "password": "Mlewds",
+            "start_coords": [0,0]
+        },
+        "ReachPsychological30": {
+            "password": "qwerty12345",
+            "start_coords": [0,0]
+        },
+        "testbed1": {
+            "password": "Skyline_2015",
+            "start_coords": [0,0]
+        },
+        "Dummy_cc1": {
+            "password": "Skyline_2015",
+            "start_coords": [0,0]
+        },
+        "fubusui": {
+            "password": "thomas1016_noob",
+            "start_coords": [0,0]
+        },
+        "dummy_cc2": {
+            "password": "Skyline_2015",
+            "start_coords": [0,0]
+        }
+    }
+}
